@@ -1,0 +1,9 @@
+{
+  "id": "personal-style-bookkeeping",
+  "name": "个人风格化记账",
+  "version": "1.0.0",
+  "minAppVersion": "1.13.0",
+  "description": "个人风格化记账：每周账本、大类与小类联动、共享凭证与主题配色。",
+  "author": "Personal Style Bookkeeping",
+  "isDesktopOnly": false
+}
